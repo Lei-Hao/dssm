@@ -1,0 +1,9 @@
+六、文件说明
+cross_domain_lh/data：
+get_train_test_set.py：生成train set、test set、文章池。
+get_features.py：生成特征。
+cal_score.py: 计算准确率和召回率。
+cross_domain_lh：
+lh_dssm.py：模型，利用cross_domain_lh/data/get_features.py产出的特征。
+
+my mini project in tencent
